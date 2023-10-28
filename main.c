@@ -6,6 +6,7 @@
 struct moviedetails person[300];
 int count=0;
 int id2=1000;
+// HERE PASSWORD IS "pass"
 int main()
 {
 	int **seat,choice,price=500,slection,i;
